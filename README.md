@@ -22,9 +22,9 @@
 *   [Project 9: Bubble-Sort](https://github.com/xlin54/Bubble-Sort)
 
 
-## Java
-*   [Project 1: Java-List-ADT-Operations-on-Array](https://github.com/xlin54/Java-List-ADT-Operations-on-Array) (Insane comment)
-*   [Project 2: Java-Test-Grade](https://github.com/xlin54/Java-Test-Grade) (Insane comment)                                     
+## Java (Insane comment)
+*   [Project 1: Java-List-ADT-Operations-on-Array](https://github.com/xlin54/Java-List-ADT-Operations-on-Array) 
+*   [Project 2: Java-Test-Grade](https://github.com/xlin54/Java-Test-Grade)                                    
 *   [Project 3: Java-Money-Converter](https://github.com/xlin54/Java-Money-Converter)
 
 
