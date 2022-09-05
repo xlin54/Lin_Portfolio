@@ -1,5 +1,10 @@
 # Lin_Portfolio
 
+
+## Cloud
+*   [Cloud 1: Cloud Snippets](https://github.com/xlin54/Cloud)
+
+
 ## C++ 
 *   [Project 1: Stack](https://github.com/xlin54/Stack)
 *   [Project 2: Linear-Queue](https://github.com/xlin54/Linear-Queue)
@@ -11,4 +16,21 @@
 *   [Project 8: Selection Sort](https://github.com/xlin54/Selection-Sort)
 *   [Project 8: Insertion-Sort](https://github.com/xlin54/Insertion-Sort)
 *   [Project 9: Bubble-Sort](https://github.com/xlin54/Bubble-Sort)
+
+
+## Java
+*   [Project 1: Java-List-ADT-Operations-on-Array](https://github.com/xlin54/Java-List-ADT-Operations-on-Array)
+*   [Project 2: Java-Test-Grade](https://github.com/xlin54/Java-Test-Grade)
+*   [Project 3: Java-Money-Converter](https://github.com/xlin54/Java-Money-Converter)
+
+
+## python
+*   [Project 1: python-hangman](https://github.com/xlin54/python-hangman)
+*   [Project 2: Python-GUI-Art](https://github.com/xlin54/Python-GUI-Art)
+*   [Project 3: Python-Guess-Number](https://github.com/xlin54/Python-Guess-Number)
+
+
+## HTML
+*   [Final Projects: Interactive Website](https://github.com/xlin54/HTML)
+
 
