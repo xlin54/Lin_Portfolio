@@ -1,2 +1,5 @@
 # Lin_Portfolio
-C++, Java, Python
+
+## C++
+###   [Project 1: Stack](https://github.com/xlin54/Stack)
+
