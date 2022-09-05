@@ -34,7 +34,7 @@
 *   [Project 3: Python-Guess-Number](https://github.com/xlin54/Python-Guess-Number)
 
 
-## HTML
+## HTML & JavaScript
 *   [Final Projects: Interactive Website](https://github.com/xlin54/HTML)
 
 
