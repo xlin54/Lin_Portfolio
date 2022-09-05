@@ -23,8 +23,8 @@
 
 
 ## Java
-*   [Project 1: Java-List-ADT-Operations-on-Array](https://github.com/xlin54/Java-List-ADT-Operations-on-Array)
-*   [Project 2: Java-Test-Grade](https://github.com/xlin54/Java-Test-Grade)
+*   [Project 1: Java-List-ADT-Operations-on-Array](https://github.com/xlin54/Java-List-ADT-Operations-on-Array) (Insane comment)
+*   [Project 2: Java-Test-Grade](https://github.com/xlin54/Java-Test-Grade) (Insane comment)                                     
 *   [Project 3: Java-Money-Converter](https://github.com/xlin54/Java-Money-Converter)
 
 
