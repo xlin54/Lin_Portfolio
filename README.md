@@ -24,8 +24,8 @@
 *   [Project 3: Java-Money-Converter](https://github.com/xlin54/Java-Money-Converter)
 
 
-## python
-*   [Project 1: python-hangman](https://github.com/xlin54/python-hangman)
+## Python
+*   [Project 1: Python-hangman](https://github.com/xlin54/python-hangman)
 *   [Project 2: Python-GUI-Art](https://github.com/xlin54/Python-GUI-Art)
 *   [Project 3: Python-Guess-Number](https://github.com/xlin54/Python-Guess-Number)
 
