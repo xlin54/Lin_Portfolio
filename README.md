@@ -18,8 +18,8 @@
 *   [Project 6: Circular-Linked-List](https://github.com/xlin54/Circular-Linked-List)
 *   [Project 7: Binary-Search](https://github.com/xlin54/Binary-Search) (Include Debug PNG File)
 *   [Project 8: Selection Sort](https://github.com/xlin54/Selection-Sort)
-*   [Project 8: Insertion-Sort](https://github.com/xlin54/Insertion-Sort)
-*   [Project 9: Bubble-Sort](https://github.com/xlin54/Bubble-Sort)
+*   [Project 9: Insertion-Sort](https://github.com/xlin54/Insertion-Sort)
+*   [Project 10: Bubble-Sort](https://github.com/xlin54/Bubble-Sort)
 
 
 ## Java (Insane Comment)
